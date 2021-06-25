@@ -38,7 +38,7 @@ tasks:
         options:
             name: "SFDO Base"
             namespace: sfdobase
-            version: 1.0
+            version: "1.0"
 
     robot:
         options:
